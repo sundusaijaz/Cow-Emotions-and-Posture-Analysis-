@@ -53,6 +53,6 @@ Ongoing efforts to enhance the model's accuracy and scalability are planned. New
 We acknowledge the contributions of the DEEPLABCUT library and the underlying deep learning models utilized in this project.
 
 ### Output Results
-<img src=" WhatsApp Image 2022-12-01 at 1.15.32 AM (1).jpeg" /> <br>
+<img src="WhatsApp Image 2022-12-01 at 1.15.32 AM (1).jpeg" /> <br>
 <img src="WhatsApp Image 2022-12-01 at 1.15.31 AM.jpeg" /> <br>
 
