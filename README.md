@@ -52,7 +52,7 @@ Ongoing efforts to enhance the model's accuracy and scalability are planned. New
 ### Acknowledgments
 We acknowledge the contributions of the DEEPLABCUT library and the underlying deep learning models utilized in this project.
 
-### License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the LICENSE file for more details.
+### Output Results
+<img src=" " /> <br>
+<img src=" " /> <br>
 
-For more details and usage examples, refer to the project's documentation and code.
